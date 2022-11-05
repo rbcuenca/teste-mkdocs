@@ -1,0 +1,6 @@
+site_name: Teste de Markdown
+site_url: https://rbcuenca.github.io/teste-mkdocs/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
